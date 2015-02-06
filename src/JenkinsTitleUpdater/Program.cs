@@ -37,8 +37,8 @@ namespace JenkinsTitleUpdater
 		private static void Usage()
 		{
 			Console.WriteLine("Usage");
-			Console.WriteLine("Usage   : CTTitleUpdater.exe full-path-to-_Layout.cshtml");
-			Console.WriteLine(@"Example :  CTTitleUpdater.exe \..\..\src\Web.CTAP.Web\View\Shared\_Layout.cshtml");
+			Console.WriteLine("Usage   : JenkinsTitleUpdater.exe full-path-to-_Layout.cshtml");
+			Console.WriteLine(@"Example :  JenkinsTitleUpdater.exe \..\..\src\Web\View\Shared\_Layout.cshtml");
 		}
 	}
 }
